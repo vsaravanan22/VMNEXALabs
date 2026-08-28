@@ -1,13 +1,12 @@
-# VMNexa Labs — Complete Professional Website
+# VMNexa Labs — Company-Ready Website
 
-The VMNexa Labs logo is already integrated into the header and footer.
+Includes:
+- Professional deep-tech company homepage
+- VMNexa Labs logo
+- Founder: Vijayalakshmi Saravanan
+- Co-Founder: Mohan Radhakrishnan
+- Founder portrait
+- AI Systems, HPC, Data-Centric Computing, Scientific AI positioning
+- Responsive GitHub Pages-ready design
 
-Upload ALL files to the ROOT of the `main` branch:
-- index.html
-- styles.css
-- vmnexa-logo.png
-- favicon.svg
-- .nojekyll
-- README.md
-
-Do not upload the ZIP itself. Replace hello@vmnexalabs.com before launch.
+Upload ALL files in this folder to the ROOT of the `main` branch. Do not upload the ZIP itself.
