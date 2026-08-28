@@ -1,6 +1,13 @@
-# VMNexa Labs — Professional Website
-Static, responsive deep-tech company website. No build step required.
+# VMNexa Labs — Complete Professional Website
 
-Upload `index.html`, `styles.css`, `favicon.svg`, and `.nojekyll` to the root of the GitHub repository. For a company-grade URL, connect the repo to Cloudflare Pages and attach `vmnexalabs.com`.
+The VMNexa Labs logo is already integrated into the header and footer.
 
-Before launch, replace `hello@vmnexalabs.com` with the official company email and add verified company information.
+Upload ALL files to the ROOT of the `main` branch:
+- index.html
+- styles.css
+- vmnexa-logo.png
+- favicon.svg
+- .nojekyll
+- README.md
+
+Do not upload the ZIP itself. Replace hello@vmnexalabs.com before launch.
